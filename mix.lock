@@ -1,0 +1,5 @@
+%{
+  "artificery": {:hex, :artificery, "0.4.0", "e0b8d3eb9dfe8f42c08a620f90a2aa9cef5dba9fcdfcecad5c2be451df159a77", [:mix], [], "hexpm"},
+  "distillery": {:git, "https://github.com/bitwalker/distillery.git", "b945641ebbc17848378f4cd0f1c116ec78326ad4", []},
+  "toml": {:hex, :toml, "0.5.2", "e471388a8726d1ce51a6b32f864b8228a1eb8edc907a0edf2bb50eab9321b526", [:mix], [], "hexpm"},
+}

@@ -1,0 +1,4 @@
+title = "Elixir TOML configuration for prod environment"
+
+[tutorial_toml]
+demo_value = "Hello, I'm old prod value from TOML"
